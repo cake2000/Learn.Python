@@ -27,5 +27,3 @@ https://www.oreilly.com/learning/hello-tensorflow
 
 分享一个链接 http://neuralnetworksanddeeplearning.com/chap1.html
 讲解神经网路和深度学习，浅显易懂，对Tensorflow学习应该有帮助
-
-
