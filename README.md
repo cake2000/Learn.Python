@@ -19,11 +19,15 @@ http://interactivepython.org/runestone/static/pythonds/index.html  网上还有p
 iPython Notebooks Markdown syntax
 https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
 
+# Machine Learning Resources
 
+https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA 一个机器学习的视频集合，很基础
 
-# Tensorflow(Deep Learning) Resources
+# Tensorflow and Deep Learning Resources
 
 https://www.oreilly.com/learning/hello-tensorflow
 
 分享一个链接 http://neuralnetworksanddeeplearning.com/chap1.html
 讲解神经网路和深度学习，浅显易懂，对Tensorflow学习应该有帮助
+
+https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ Deep Learning入门， 没有任何技术细节，很简单直白的解释。
