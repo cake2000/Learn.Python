@@ -31,3 +31,6 @@ https://www.oreilly.com/learning/hello-tensorflow
 讲解神经网路和深度学习，浅显易懂，对Tensorflow学习应该有帮助
 
 https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ Deep Learning入门， 没有任何技术细节，很简单直白的解释。
+
+Must Know Tips/Tricks in Deep Neural Networks:
+http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
